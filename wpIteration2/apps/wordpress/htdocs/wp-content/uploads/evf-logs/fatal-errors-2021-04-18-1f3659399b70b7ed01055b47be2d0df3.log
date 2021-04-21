@@ -1,0 +1,187 @@
+2021-04-18T11:39:46+00:00 CRITICAL Uncaught Error: Call to a member function get_var() on null in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/includes/shortcodes/shortcode-universal.php(53) : eval()'d code:109
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/includes/shortcodes/shortcode-universal.php(53): eval()
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/libs/factory/shortcodes/shortcode.class.php(287): WINP_SnippetShortcodeUniversal->html()
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/libs/factory/shortcodes/shortcodes.php(96): Wbcr_FactoryShortcodes329_Shortcode->render()
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-includes/shortcodes.php(343): Wbcr_FactoryShortcodes329_ShortcodeManager->__call()
+#4 [internal function]: do_shortcode_tag()
+#5 /opt/bitnami/apps/wordpress/htdocs/wp-includes/shortcodes.php(218): preg_replace_callback()
+#6 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortco
+
+2021-04-18T11:39:50+00:00 CRITICAL Uncaught Error: Call to a member function get_var() on null in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/includes/shortcodes/shortcode-universal.php(53) : eval()'d code:109
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/includes/shortcodes/shortcode-universal.php(53): eval()
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/libs/factory/shortcodes/shortcode.class.php(287): WINP_SnippetShortcodeUniversal->html()
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/libs/factory/shortcodes/shortcodes.php(96): Wbcr_FactoryShortcodes329_Shortcode->render()
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-includes/shortcodes.php(343): Wbcr_FactoryShortcodes329_ShortcodeManager->__call()
+#4 [internal function]: do_shortcode_tag()
+#5 /opt/bitnami/apps/wordpress/htdocs/wp-includes/shortcodes.php(218): preg_replace_callback()
+#6 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortco
+
+2021-04-18T11:40:05+00:00 CRITICAL Uncaught Error: Call to a member function get_var() on null in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/includes/shortcodes/shortcode-universal.php(53) : eval()'d code:109
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/includes/shortcodes/shortcode-universal.php(53): eval()
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/libs/factory/shortcodes/shortcode.class.php(287): WINP_SnippetShortcodeUniversal->html()
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/libs/factory/shortcodes/shortcodes.php(96): Wbcr_FactoryShortcodes329_Shortcode->render()
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-includes/shortcodes.php(343): Wbcr_FactoryShortcodes329_ShortcodeManager->__call()
+#4 [internal function]: do_shortcode_tag()
+#5 /opt/bitnami/apps/wordpress/htdocs/wp-includes/shortcodes.php(218): preg_replace_callback()
+#6 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortco
+
+2021-04-18T11:40:18+00:00 CRITICAL Uncaught Error: Call to a member function get_var() on null in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/includes/shortcodes/shortcode-universal.php(53) : eval()'d code:109
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/includes/shortcodes/shortcode-universal.php(53): eval()
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/libs/factory/shortcodes/shortcode.class.php(287): WINP_SnippetShortcodeUniversal->html()
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/libs/factory/shortcodes/shortcodes.php(96): Wbcr_FactoryShortcodes329_Shortcode->render()
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-includes/shortcodes.php(343): Wbcr_FactoryShortcodes329_ShortcodeManager->__call()
+#4 [internal function]: do_shortcode_tag()
+#5 /opt/bitnami/apps/wordpress/htdocs/wp-includes/shortcodes.php(218): preg_replace_callback()
+#6 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortco
+
+2021-04-18T11:40:42+00:00 CRITICAL Uncaught Error: Call to a member function get_var() on null in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/includes/shortcodes/shortcode-universal.php(53) : eval()'d code:109
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/includes/shortcodes/shortcode-universal.php(53): eval()
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/libs/factory/shortcodes/shortcode.class.php(287): WINP_SnippetShortcodeUniversal->html()
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/libs/factory/shortcodes/shortcodes.php(96): Wbcr_FactoryShortcodes329_Shortcode->render()
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-includes/shortcodes.php(343): Wbcr_FactoryShortcodes329_ShortcodeManager->__call()
+#4 [internal function]: do_shortcode_tag()
+#5 /opt/bitnami/apps/wordpress/htdocs/wp-includes/shortcodes.php(218): preg_replace_callback()
+#6 /opt/bitnami/apps/wordpress/htdocs/wp-includes/class-wp-hook.php(292): do_shortcode()
+#7 /opt/bitnami/apps/word
+
+2021-04-18T11:40:47+00:00 CRITICAL Uncaught Error: Call to a member function get_var() on null in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/includes/shortcodes/shortcode-universal.php(53) : eval()'d code:109
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/includes/shortcodes/shortcode-universal.php(53): eval()
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/libs/factory/shortcodes/shortcode.class.php(287): WINP_SnippetShortcodeUniversal->html()
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/libs/factory/shortcodes/shortcodes.php(96): Wbcr_FactoryShortcodes329_Shortcode->render()
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-includes/shortcodes.php(343): Wbcr_FactoryShortcodes329_ShortcodeManager->__call()
+#4 [internal function]: do_shortcode_tag()
+#5 /opt/bitnami/apps/wordpress/htdocs/wp-includes/shortcodes.php(218): preg_replace_callback()
+#6 /opt/bitnami/apps/wordpress/htdocs/wp-includes/class-wp-hook.php(292): do_shortcode()
+#7 /opt/bitnami/apps/word
+
+2021-04-18T11:40:47+00:00 CRITICAL Uncaught Error: Call to a member function get_var() on null in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/includes/shortcodes/shortcode-universal.php(53) : eval()'d code:109
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/includes/shortcodes/shortcode-universal.php(53): eval()
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/libs/factory/shortcodes/shortcode.class.php(287): WINP_SnippetShortcodeUniversal->html()
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/libs/factory/shortcodes/shortcodes.php(96): Wbcr_FactoryShortcodes329_Shortcode->render()
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-includes/shortcodes.php(343): Wbcr_FactoryShortcodes329_ShortcodeManager->__call()
+#4 [internal function]: do_shortcode_tag()
+#5 /opt/bitnami/apps/wordpress/htdocs/wp-includes/shortcodes.php(218): preg_replace_callback()
+#6 /opt/bitnami/apps/wordpress/htdocs/wp-includes/class-wp-hook.php(292): do_shortcode()
+#7 /opt/bitnami/apps/word
+
+2021-04-18T11:41:03+00:00 CRITICAL Uncaught Error: Call to a member function get_var() on null in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/includes/shortcodes/shortcode-universal.php(53) : eval()'d code:109
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/includes/shortcodes/shortcode-universal.php(53): eval()
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/libs/factory/shortcodes/shortcode.class.php(287): WINP_SnippetShortcodeUniversal->html()
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/libs/factory/shortcodes/shortcodes.php(96): Wbcr_FactoryShortcodes329_Shortcode->render()
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-includes/shortcodes.php(343): Wbcr_FactoryShortcodes329_ShortcodeManager->__call()
+#4 [internal function]: do_shortcode_tag()
+#5 /opt/bitnami/apps/wordpress/htdocs/wp-includes/shortcodes.php(218): preg_replace_callback()
+#6 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortco
+
+2021-04-18T11:48:57+00:00 CRITICAL Uncaught Error: Call to a member function get_var() on null in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/includes/shortcodes/shortcode-universal.php(53) : eval()'d code:105
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/includes/shortcodes/shortcode-universal.php(53): eval()
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/libs/factory/shortcodes/shortcode.class.php(287): WINP_SnippetShortcodeUniversal->html()
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/libs/factory/shortcodes/shortcodes.php(96): Wbcr_FactoryShortcodes329_Shortcode->render()
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-includes/shortcodes.php(343): Wbcr_FactoryShortcodes329_ShortcodeManager->__call()
+#4 [internal function]: do_shortcode_tag()
+#5 /opt/bitnami/apps/wordpress/htdocs/wp-includes/shortcodes.php(218): preg_replace_callback()
+#6 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortco
+
+2021-04-18T11:52:35+00:00 CRITICAL Uncaught Error: Call to a member function get_var() on null in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/includes/shortcodes/shortcode-universal.php(53) : eval()'d code:105
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/includes/shortcodes/shortcode-universal.php(53): eval()
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/libs/factory/shortcodes/shortcode.class.php(287): WINP_SnippetShortcodeUniversal->html()
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/libs/factory/shortcodes/shortcodes.php(96): Wbcr_FactoryShortcodes329_Shortcode->render()
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-includes/shortcodes.php(343): Wbcr_FactoryShortcodes329_ShortcodeManager->__call()
+#4 [internal function]: do_shortcode_tag()
+#5 /opt/bitnami/apps/wordpress/htdocs/wp-includes/shortcodes.php(218): preg_replace_callback()
+#6 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortco
+
+2021-04-18T11:53:15+00:00 CRITICAL Uncaught Error: Call to a member function get_var() on null in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/includes/shortcodes/shortcode-universal.php(53) : eval()'d code:15
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/includes/shortcodes/shortcode-universal.php(53): eval()
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/libs/factory/shortcodes/shortcode.class.php(287): WINP_SnippetShortcodeUniversal->html()
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/libs/factory/shortcodes/shortcodes.php(96): Wbcr_FactoryShortcodes329_Shortcode->render()
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-includes/shortcodes.php(343): Wbcr_FactoryShortcodes329_ShortcodeManager->__call()
+#4 [internal function]: do_shortcode_tag()
+#5 /opt/bitnami/apps/wordpress/htdocs/wp-includes/shortcodes.php(218): preg_replace_callback()
+#6 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcod
+
+2021-04-18T11:53:34+00:00 CRITICAL Uncaught Error: Call to a member function get_var() on null in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/includes/shortcodes/shortcode-universal.php(53) : eval()'d code:15
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/includes/shortcodes/shortcode-universal.php(53): eval()
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/libs/factory/shortcodes/shortcode.class.php(287): WINP_SnippetShortcodeUniversal->html()
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/libs/factory/shortcodes/shortcodes.php(96): Wbcr_FactoryShortcodes329_Shortcode->render()
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-includes/shortcodes.php(343): Wbcr_FactoryShortcodes329_ShortcodeManager->__call()
+#4 [internal function]: do_shortcode_tag()
+#5 /opt/bitnami/apps/wordpress/htdocs/wp-includes/shortcodes.php(218): preg_replace_callback()
+#6 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcod
+
+2021-04-18T11:53:35+00:00 CRITICAL Uncaught Error: Call to a member function get_var() on null in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/includes/shortcodes/shortcode-universal.php(53) : eval()'d code:15
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/includes/shortcodes/shortcode-universal.php(53): eval()
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/libs/factory/shortcodes/shortcode.class.php(287): WINP_SnippetShortcodeUniversal->html()
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/libs/factory/shortcodes/shortcodes.php(96): Wbcr_FactoryShortcodes329_Shortcode->render()
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-includes/shortcodes.php(343): Wbcr_FactoryShortcodes329_ShortcodeManager->__call()
+#4 [internal function]: do_shortcode_tag()
+#5 /opt/bitnami/apps/wordpress/htdocs/wp-includes/shortcodes.php(218): preg_replace_callback()
+#6 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcod
+
+2021-04-18T11:55:38+00:00 CRITICAL Uncaught Error: Call to a member function get_var() on null in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/includes/shortcodes/shortcode-universal.php(53) : eval()'d code:15
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/includes/shortcodes/shortcode-universal.php(53): eval()
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/libs/factory/shortcodes/shortcode.class.php(287): WINP_SnippetShortcodeUniversal->html()
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/libs/factory/shortcodes/shortcodes.php(96): Wbcr_FactoryShortcodes329_Shortcode->render()
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-includes/shortcodes.php(343): Wbcr_FactoryShortcodes329_ShortcodeManager->__call()
+#4 [internal function]: do_shortcode_tag()
+#5 /opt/bitnami/apps/wordpress/htdocs/wp-includes/shortcodes.php(218): preg_replace_callback()
+#6 /opt/bitnami/apps/wordpress/htdocs/wp-includes/class-wp-hook.php(292): do_shortcode()
+#7 /opt/bitnami/apps/wordp
+
+2021-04-18T11:55:39+00:00 CRITICAL Uncaught Error: Call to a member function get_var() on null in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/includes/shortcodes/shortcode-universal.php(53) : eval()'d code:15
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/includes/shortcodes/shortcode-universal.php(53): eval()
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/libs/factory/shortcodes/shortcode.class.php(287): WINP_SnippetShortcodeUniversal->html()
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/libs/factory/shortcodes/shortcodes.php(96): Wbcr_FactoryShortcodes329_Shortcode->render()
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-includes/shortcodes.php(343): Wbcr_FactoryShortcodes329_ShortcodeManager->__call()
+#4 [internal function]: do_shortcode_tag()
+#5 /opt/bitnami/apps/wordpress/htdocs/wp-includes/shortcodes.php(218): preg_replace_callback()
+#6 /opt/bitnami/apps/wordpress/htdocs/wp-includes/class-wp-hook.php(292): do_shortcode()
+#7 /opt/bitnami/apps/wordp
+
+2021-04-18T11:55:39+00:00 CRITICAL Uncaught Error: Call to a member function get_var() on null in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/includes/shortcodes/shortcode-universal.php(53) : eval()'d code:15
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/includes/shortcodes/shortcode-universal.php(53): eval()
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/libs/factory/shortcodes/shortcode.class.php(287): WINP_SnippetShortcodeUniversal->html()
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/libs/factory/shortcodes/shortcodes.php(96): Wbcr_FactoryShortcodes329_Shortcode->render()
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-includes/shortcodes.php(343): Wbcr_FactoryShortcodes329_ShortcodeManager->__call()
+#4 [internal function]: do_shortcode_tag()
+#5 /opt/bitnami/apps/wordpress/htdocs/wp-includes/shortcodes.php(218): preg_replace_callback()
+#6 /opt/bitnami/apps/wordpress/htdocs/wp-includes/class-wp-hook.php(292): do_shortcode()
+#7 /opt/bitnami/apps/wordp
+
+2021-04-18T11:55:47+00:00 CRITICAL Uncaught Error: Call to a member function get_var() on null in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/includes/shortcodes/shortcode-universal.php(53) : eval()'d code:15
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/includes/shortcodes/shortcode-universal.php(53): eval()
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/libs/factory/shortcodes/shortcode.class.php(287): WINP_SnippetShortcodeUniversal->html()
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php/libs/factory/shortcodes/shortcodes.php(96): Wbcr_FactoryShortcodes329_Shortcode->render()
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-includes/shortcodes.php(343): Wbcr_FactoryShortcodes329_ShortcodeManager->__call()
+#4 [internal function]: do_shortcode_tag()
+#5 /opt/bitnami/apps/wordpress/htdocs/wp-includes/shortcodes.php(218): preg_replace_callback()
+#6 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcod
+
+2021-04-18T13:32:51+00:00 CRITICAL Uncaught Error: Call to undefined method Elementor\Core\Kits\Documents\Kit::save_display_settings_data() in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/elementor-pro/modules/popup/module.php:98
+Stack trace:
+#0 [internal function]: ElementorPro\Modules\Popup\Module->save_display_settings()
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func()
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-includes/class-wp-hook.php(292): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters()
+#4 /opt/bitnami/apps/wordpress/htdocs/wp-includes/plugin.php(484): WP_Hook->do_action()
+#5 /opt/bitnami/apps/wordpress/htdocs/wp-admin/admin-ajax.php(187): do_action()
+#6 {main}
+  thrown
+

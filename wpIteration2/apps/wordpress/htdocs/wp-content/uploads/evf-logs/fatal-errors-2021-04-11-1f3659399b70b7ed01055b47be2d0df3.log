@@ -1,0 +1,22 @@
+2021-04-11T04:05:42+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO)
+
+2021-04-11T04:05:47+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO)
+
+2021-04-11T04:45:36+00:00 CRITICAL Out of memory (allocated 14680064) (tried to allocate 159744 bytes)
+
+2021-04-11T04:54:51+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 28672 bytes)
+
+2021-04-11T05:39:41+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 20480 bytes)
+
+2021-04-11T05:43:15+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 12288 bytes)
+
+2021-04-11T05:48:01+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 12288 bytes)
+
+2021-04-11T05:55:36+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 20480 bytes)
+
+2021-04-11T05:55:37+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 12288 bytes)
+
+2021-04-11T05:58:05+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 163840 bytes)
+
+2021-04-11T06:13:35+00:00 CRITICAL Out of memory (allocated 12582912) (tried to allocate 28672 bytes)
+

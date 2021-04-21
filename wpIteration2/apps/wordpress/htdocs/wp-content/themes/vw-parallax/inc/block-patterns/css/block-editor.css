@@ -1,0 +1,35 @@
+.main-banner h1, .main-banner p, .main-banner .block-editor-rich-text__editable.wp-block-button__link, .service-sec h2, .service-sec p, .about-section h3, .about-section h4, .about-section p{ 
+  font-family: 'Poppins', sans-serif !important;
+}
+/*Banner section*/
+.main-banner .block-editor-rich-text__editable.wp-block-button__link{
+  padding: 15px 20px;
+}
+.main-banner .block-editor-rich-text__editable.wp-block-button__link:hover {
+  background: #1e202c !important;
+}
+.main-banner .block-editor-rich-text__editable.wp-block-button__link:after {
+  content: "\f105";
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  color: #fff;
+  margin-left: 10px;
+}
+/*Services section*/
+.service-sec .wp-block-columns.services-boxes.block-editor-block-list__block.block-editor-block-list__layout{
+  margin-top: -6em;
+}
+.service-sec .wp-block-cover{
+  z-index: 999;
+  box-shadow: 0 0 15px 2px #e1e1e1;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+.service-sec h2.block-editor-rich-text__editable.block-editor-block-list__block.wp-block:after{
+  content: "";
+  border-bottom: solid 3px #ffb400;
+  position: relative;
+  width: 20%;
+  margin: 10px auto;
+  display: block;
+}

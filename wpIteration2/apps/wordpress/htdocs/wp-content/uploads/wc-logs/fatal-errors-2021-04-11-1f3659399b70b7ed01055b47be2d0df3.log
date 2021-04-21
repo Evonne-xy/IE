@@ -1,0 +1,12 @@
+2021-04-11T04:05:42+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(65) : eval()'d code on line 3
+
+2021-04-11T04:05:47+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(65) : eval()'d code on line 3
+
+2021-04-11T04:45:37+00:00 CRITICAL Out of memory (allocated 14680064) (tried to allocate 159744 bytes) in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/elementor/includes/autoloader.php on line 294
+
+2021-04-11T04:54:52+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 28672 bytes) in /opt/bitnami/apps/wordpress/htdocs/wp-includes/functions.php on line 624
+
+2021-04-11T05:58:11+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 163840 bytes) in /opt/bitnami/apps/wordpress/htdocs/wp-includes/plugin.php on line 117
+
+2021-04-11T06:13:42+00:00 CRITICAL Out of memory (allocated 12582912) (tried to allocate 28672 bytes) in /opt/bitnami/apps/wordpress/htdocs/wp-includes/functions.php on line 624
+
